@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local data / confidential PDFs
+data/pdf_raw/
+data/ocr_text/
+data/output_excel/
+data/feedback/
+data/processed_emails/
+
+# Screenshots / temporary files
+screenshots/
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Large local files
+*.zip
+*.7z
+*.rar

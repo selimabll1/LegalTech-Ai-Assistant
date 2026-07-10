@@ -1,0 +1,23 @@
+{
+  "risk_events": [
+    "procédure collective",
+    "liquidation",
+    "avis aux créanciers",
+    "vente judiciaire",
+    "dissolution"
+  ],
+  "opportunity_events": [
+    "augmentation de capital",
+    "fusion-acquisition",
+    "cession d'actifs",
+    "restructuration",
+    "entrée d'investisseur"
+  ],
+  "governance_events": [
+    "changement de dirigeant",
+    "assemblée générale",
+    "convocation",
+    "modification statutaire",
+    "changement d'actionnariat"
+  ]
+}
