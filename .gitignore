@@ -36,3 +36,22 @@ Thumbs.db
 *.zip
 *.7z
 *.rar
+# LegalTech collector
+secrets/
+*.har
+*.har.json
+cookies.txt
+legaltech_session*.json
+legaltech_endpoints.local.json
+legaltech_query.local.json
+*.part
+data/legaltech_registry.sqlite3*
+
+# LegalTech collector local data
+secrets/
+*.har
+*.har.json
+legaltech_collection.local.json
+legaltech_session.local.json
+data/legaltech_registry.sqlite3*
+*.part
