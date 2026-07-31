@@ -11,5 +11,4 @@ pillow>=10.0
 scikit-learn>=1.5
 joblib>=1.4
 msal
-python-dotenv
-requests
+pypdf==6.14.2
